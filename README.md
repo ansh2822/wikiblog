@@ -1,5 +1,5 @@
 # MiniWiki Project 
-![Wiki](Wiki.png
+![Wiki](Wiki.png)
 
 ## Introduction
 MiniWiki is a simple web application built on Next.js that allows users to fetch data for their searches from Wikipedia pages. This mini application provides a convenient way to access information from Wikipedia without leaving the site. With MiniWiki, users can quickly find relevant information related to their search queries.
